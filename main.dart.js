@@ -96591,7 +96591,7 @@ $0(){A.Md(A.jX("https://drive.google.com/file/d/1Slg5qDgt1XoHMV1GqPPwtAAyyGEnWGy
 $S:0}
 A.Tw.prototype={
 L(a){var s=A.aOA(3.141592653589793)
-return A.q6(B.T,A.R9("images/Schnurri.jpg",B.h2,null,a.R(t.l).f.a.b/100*20,200),s,!0)}}
+return A.q6(B.T,A.R9("assets/images/Schnurri.jpg",B.h2,null,a.R(t.l).f.a.b/100*20,200),s,!0)}}
 A.DU.prototype={
 ap(){return new A.a08(B.p)}}
 A.a08.prototype={
