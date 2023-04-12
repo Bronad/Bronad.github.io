@@ -96591,7 +96591,7 @@ $0(){A.Md(A.jX("https://drive.google.com/file/d/1Slg5qDgt1XoHMV1GqPPwtAAyyGEnWGy
 $S:0}
 A.Tv.prototype={
 L(a){var s=null
-return A.q6(B.T,new A.lC(new A.vo("images/Schnurri.JPG",s,s),s,s,s,s,s),A.aOA(3.141592653589793),!0)}}
+return A.q6(B.T,new A.lC(new A.vo("images/Schnurri.JPG",s,s),s,200,300,s,s),A.aOA(3.141592653589793),!0)}}
 A.DU.prototype={
 ap(){return new A.a07(B.p)}}
 A.a07.prototype={
