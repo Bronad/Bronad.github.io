@@ -96596,9 +96596,10 @@ k.d=new A.t2(a.R(i).f).gwG()===B.iL?8:12
 l=k.kN(k,1.875)
 l.z=7
 l=A.jY(A.a([m,new A.aN(j,15,j,j),l.cS()],n),B.M,B.aQ)
-l=A.XS(A.a([A.ey(A.a([new A.bM(new A.aj(p,1,p,1),o,j),new A.XF(r*0.2,j),A.jY(A.a([new A.aN(j,q*0.4,j,j),new A.aN(r*0.4,j,new A.lm(A.aV(150,51,54,69),l,j),j)],n),B.oF,B.nf),new A.aN(50,j,j,j)],n),B.S,j,B.M,B.ap,j,j)],n))
+m=r*0.4
+l=A.XS(A.a([A.ey(A.a([new A.bM(new A.aj(p,0,p,0),o,j),new A.XF(r*0.2,j),new A.aN(m,j,A.jY(A.a([new A.aN(j,q*0.4,j,j),new A.aN(m,j,new A.lm(A.aV(150,51,54,69),l,j),j)],n),B.oF,B.nf),j),new A.aN(50,j,j,j)],n),B.S,j,B.M,B.ap,j,j)],n))
 n=A.uv(A.ja(B.bS,A.a([h,A.jY(A.a([new A.aN(j,100,j,j),new A.aN(j,a.R(i).f.a.b/100*60,new A.bM(new A.aj(50,0,0,0),l,j),j)],n),B.M,B.aQ)],n),B.Z,B.bB,j))
-n.r=r*1.1
+n.r=r
 n.f=q*0.8
 return A.pK(!0,n.cS(),B.N,!0)}}
 A.aeV.prototype={
