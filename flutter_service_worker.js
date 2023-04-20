@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "9a34c5e962c23e67a38122e07bdb6fe3",
+  "assets/AssetManifest.json": "e5aa3e72e6e1a6f36c3b11d8ab6a6c68",
 "assets/FontManifest.json": "3ba95e877e8d977ed295b7a8efefeff7",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/images/Ani_bild1.png": "2ff55c48857ad6bce8c65112ae9da5ba",
@@ -11,6 +11,8 @@ const RESOURCES = {
 "assets/images/Background.png": "427fd005e04113841236f5cff3a4074e",
 "assets/images/CGR_bg.png": "c5b166591c775e20b6e5993c6bcddc68",
 "assets/images/CGR_bild1.png": "2e819b1eebfa8ba7eeebf6ffcd243e88",
+"assets/images/eng_Flagge.jpg": "cfe3eb4c3bf73c0633e84422bd96e35e",
+"assets/images/Flagge.jpg": "70a498a629ab764eef6e8d51f8b782f5",
 "assets/images/Game_of_life_bild1.png": "b8315b79fea6abe589890c068ea1dd48",
 "assets/images/Game_of_life_bild10%2520-%2520Kopie.png": "6432b968e41098e4d1fe5ea90c938db4",
 "assets/images/kek.jpg": "c07c22f167e66f043cfa45b1a685f86c",
@@ -59,9 +61,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "60a3b830c737f724f2465703c0afbc36",
-"/": "60a3b830c737f724f2465703c0afbc36",
-"main.dart.js": "a8e6ec4134dc82b1ae4069d7ac561dd8",
+"index.html": "ca3a2f74a236e653538f5a9778921605",
+"/": "ca3a2f74a236e653538f5a9778921605",
+"main.dart.js": "1d85c3013ba49869c5f8c7dd02bbc468",
 "manifest.json": "e8a86cdd0e8f0de9b40f37f215b3abc3",
 "version.json": "009c9e65172e010890f7f65fde438006"
 };
